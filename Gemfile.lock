@@ -163,7 +163,6 @@ DEPENDENCIES
   launchy
   pg
   rails (= 4.1.7)
-  railties
   rspec-rails
   sass-rails (>= 3.2)
   sdoc
